@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hi my name is **Juan**, I'm from Argentina and I'm a Software Developer interested in **PHP** and **Laravel** ecosystem.
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,tailwind,postgres,bash,linux,js,docker)](https://skillicons.dev)
+
+
+
 <!--
 **juanfrbgs/juanfrbgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
